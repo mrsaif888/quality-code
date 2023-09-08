@@ -8,7 +8,9 @@ Prioritizing technical debt based on an "interest rate" through Hotspot analysis
 The article emphasizes setting business expectations for code quality improvements, resulting in shorter development times and reduced uncertainty in project estimates.
 Despite the recognized importance of code quality, the lack of data and numbers to prove its value has led to an undervaluation of a healthy codebase at the business level.
 Recent research reveals tangible business advantages, including doubled development speed, 15 times fewer bugs, and significant reductions in project completion time uncertainty, making the case for prioritizing code quality improvement strategies.
+
 Check list
+
 1: Recognize Technical Debt as a Business Risk:
 
 2: Acknowledge that technical debt can waste developers' time and impact job satisfaction.
@@ -24,7 +26,9 @@ Use these measures to make technical debt more accessible and understandable to 
 
 2. [Developers, unite! Join the fight for code quality](https://www.infoworld.com/article/3691011/developers-unite-join-the-fight-for-code-quality.html)
  Quality in software development is vital for several reasons. It ensures value delivery to clients and users, safeguards a company's brand reputation, upholds craftsmanship, and meets ethical responsibilities. Advocating for quality involves building consensus with leadership, framing concerns in business interests, understanding their perspective, relying on facts, and being open to compromise. If a company consistently prioritizes velocity over quality, it may be time to consider whether it's the right workplace for fostering professional growth and writing good code.
+
 Check list 
+
 1: Quality for Value and Success:
 
 Advocate for code quality to ensure that software delivers value to users.
@@ -46,7 +50,9 @@ Emphasize the ethical responsibility of building products that meet the highest 
 
 3. [Improve Code Quality with These Tips and Best Practices](https://dev.to/documatic/improve-code-quality-with-these-tips-and-best-practices-2mh2)
 In software development, code quality is paramount for reliability and maintainability. This article emphasizes the importance of writing clean, readable code and provides practical tips for achieving better code quality. Key recommendations include adhering to the KISS (Keep It Simple, Stupid) principle, writing modular and DRY (Don't Repeat Yourself) code, avoiding hard-coded values, using version control, refactoring regularly, and optimizing for performance. Improving code quality ultimately leads to more efficient and manageable software development.
+
 Check list 
+
 1: Prioritizing Code Quality:
 Recognize that code quality is not just about functionality but also readability, maintainability, and user experience.
 Understand that writing high-quality code initially reduces the need for future code rewrites and leads to fewer bugs.
